@@ -1,0 +1,99 @@
+username,name,designation,mobile,email,emp_code,address,member_type,task_type,vendor_name,shift_type,cluster,city_type,total_leaves,emp_latitude,emp_longitude
+sawant.adarshanil,Adarsh Anil Sawant,Manager,8454022880,sawant.adarshanil@sifycorp.com,C18665,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+ajaykumar.gupta,Ajay kumar Gupta,Manager,9987503159,ajaykumar.gupta@sifycorp.com,10774,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+akash.basanta,Akash basanta yadav,Manager,8652712422,akash.basanta@sifycorp.com,C17807,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+aniket.malvankar,Aniket Narahari Malvankar,Manager,9167084658,aniket.malvankar@sifycorp.com,11894,NULL,Outsourced,NULL,NULL,S1,"FSM_MUM, FSM_PNQ, FSM_BHO, FSM_PJM, FSM_INR, FSM_RAI, FSM_GU, FSM_NSK, FSM_NGP, FSM_AGD, FSM_JH, FSM_BH, FSM_CHD, FSM_RJ, FSM_SIL, FSM_SUR, FSM_BHU, FSM_RJT, FSM_KOL, FSM_AMD, FSM_BRD, FSM_PB",NULL,24,NULL,NULL
+anil.pawar,Anil machindranath pawar,Manager,9969874241,anil.pawar@sifycorp.com,C18330,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+Ankit.Nagar,Ankit Nagar,Manager,7877739222,ankit.nagar@sifycorp.com,17011,NULL,Outsourced,NULL,NULL,S1,"FSM_MUM, FSM_BRD, FSM_AMD, FSM_RJT, FSM_SUR, FSM_CHN, FSM_AGD, FSM_NGP, FSM_NSK, FSM_RAI, FSM_INR, FSM_PJM, FSM_BHO, FSM_PNQ",NULL,24,NULL,NULL
+yadav.deepnarayan,Deepnarayan yadav,Manager,7028574096,yadav.deepnarayan@sifycorp.com,C11815,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+hemal.shailesh,Hemal Shailesh Shah,Manager,8369395815,hemal.shailesh@sifycorp.com,15171,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+Krishna Marathe,Krishna Marathe,Manager,9370699823,krishna.marathe@sifycorp.com,11532,NULL,Outsourced,NULL,NULL,S1,"FSM_PJM, FSM_MUM, FSM_HG",NULL,24,NULL,NULL
+faisal.md,MD FAISAL,Manager,9793135925,faisal.md@sifycorp.com,C18518,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+Manveer.singh,MJ TELECOMMUNICATION SERVICES PVT LTD,Manager,9971070021,ms@mjtelecom.in,44412,NULL,Outsourced,NULL,NULL,S1,"FSM_PNQ, FSM_PJM, FSM_MUM, FSM_NSK, FSM_NGP, FSM_AGD, FSM_CHD, FSM_PB",NULL,24,NULL,NULL
+mahesh.kamath,Mahesh Nagesh Kamath,Manager,9158663768,mahesh.kamath@sifycorp.com,11718,NULL,Outsourced,NULL,NULL,S1,"FSM_OR, Uttar Pradesh, FSM_PNQ, FSM_BHO, FSM_PJM, FSM_INR, FSM_RAI, FSM_GU, FSM_NSK, FSM_NGP, FSM_AGD, FSM_JH, FSM_BH, FSM_CHD, FSM_DEL, FSM_RJ, FSM_SIL, FSM_SUR, FSM_BHU, FSM_RJT, FSM_KOL, FSM_AMD, FSM_BRD, FSM_PB, FSM_MUM",NULL,24,NULL,NULL
+manish.srivastava,Manish Kumar Srivastava,Manager,9311142414,manish.srivastava@sifycorp.com,10412,NULL,Outsourced,NULL,NULL,S1,"South, Tamilnadu, Karnataka, FSM_AGD, FSM_OR, FSM_MUM, FSM_RAI, FSM_JH, FSM_BHO, FSM_INR, FSM_PNQ, FSM_PJM, FSM_NSK, FSM_NGP, FSM_BH, FSM_GU, FSM_CLT, FSM_AGRA, Andhra Pradesh, FSM_AMD, FSM_BLR, FSM_DEL, FSM_KOL, FSM_CHD, FSM_TVM, FSM_CBE, FSM_MAD, FSM_LKO, FSM_HBL, FSM_KAN, FSM_JK, FSM_HYD, FSM_PDY, FSM_PB, FSM_BHU, FSM_MYS, FSM_RJ, FSM_VAR, FSM_VJA, FSM_VZG, FSM_TRY, FSM_SUR, FSM_SIL, FSM_RJT, Kerala, FSM_UK, FSM_COK, FSM_MLR, FSM_CHN, FSM_BRD",NULL,24,NULL,NULL
+mohit.kanodia1,Mohit Gangadhar Kanodia,Manager,7715008861,mohit.kanodia@sifycorp.com,C17783,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+attar.akhtar,Mohsin attar,Manager,8976800590,attar.akhtar@sifycorp.com,14306,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+prashant.shashikant,Prashant Shashikant Gidhe,Manager,9833346663,prashant.shashikant@sifycorp.com,C18238,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+rahulshinde.pandurang,RAHUL SHINDE,Manager,9322227738,rahulshinde.pandurang@sifycorp.com,C18519,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+rajesh.siddam,Rajesh Kumar Siddam,Manager,9962587543,rajesh.siddam@sifycorp.com,1469,NULL,Outsourced,NULL,NULL,S1,"FSM_MLR, FSM_AGRA, FSM_SUR, FSM_SIL, FSM_UK, FSM_CHN, FSM_KAN, FSM_VZG, FSM_RJ, FSM_CLT, FSM_BLR, FSM_LKO, FSM_VJA, FSM_MAD, FSM_CBE, FSM_MYS, FSM_TVM, FSM_COK, FSM_AMD, FSM_KOL, FSM_RJT, FSM_PDY, FSM_HBL, FSM_HYD, FSM_BHU, FSM_DEL, FSM_TRY, FSM_JK, FSM_PNQ, FSM_BHO, FSM_PJM, FSM_MUM, FSM_INR, FSM_RAI, FSM_GU, FSM_NSK, FSM_NGP, FSM_AGD, FSM_JH, FSM_BH, FSM_VAR, FSM_CHD, FSM_BRD, FSM_PB",NULL,24,NULL,NULL
+rohittetwilkar.manohar,Rohit Tetwilkar,Manager,8452882765,rohittetwilkar.manohar@sifycorp.com,C18474,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+rupesh.masurkar,Rupesh Masurkar,Manager,9664558798,rupesh.masurkar@sifycorp.com,C18278,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+Sadanand Padawal,Sadanand Padawal,Manager,8097856126,padawal.sadanand@sifycorp.com,17511,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+sazid.khan,Sazid Khan,Manager,9621477663,sazid.khan@sifycorp.com,C18321,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+Sudhir.Sharma,Sudhir Sharma,Manager,9250001323,sharma.sudhir@sifycorp.com,13442,NULL,Outsourced,NULL,NULL,S1,"FSM_AGRA, FSM_DEL, FSM_CHD, FSM_LKO, FSM_KAN, FSM_JK, FSM_PB, FSM_RJ, FSM_VAR, FSM_UK, FSM_AGD, FSM_MUM, FSM_RAI, FSM_BHO, FSM_INR, FSM_PNQ, FSM_PJM, FSM_NSK, FSM_NGP, FSM_AMD, FSM_SUR, FSM_RJT, FSM_BRD, FSM_HG",NULL,24,NULL,NULL
+Suyog Thakur,Suyog Thakur,Manager,8698727936,suyog.thakur@sifycorp.com,17459,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+tukaramramakant.joshi,Tukaram Joshi,Manager,9819677678,tukaramramakant.joshi@sifycorp.com,C12745,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+uday.bhave,Uday Bhave,Manager,9820551605,uday.bhave@sifycorp.com,8843,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+vivek.vasant,Vivek vasant,Manager,8104143687,vivek.vasant@sifycorp.com,C7114,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+ameya.kirtane,ameya kirtane,Manager,9833891006,ameya.kirtane@sifycorp.com,8147,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+amit.kawle,amit kawle,Manager,9619772949,amit.kawle@sifycorp.com,7813,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+kaustubh.nevrekar,kaustubh nevrekar,Manager,7738930078,kaustubh.nevrekar@sifycorp.com,C11220,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+mubarak.barmare,mubarak barmare,Manager,9867659057,mubarak.barmare@sifycorp.com,3855,NULL,Outsourced,NULL,NULL,S1,FSM_MUM,NULL,24,NULL,NULL
+onsite_nse,onsite nse,Manager,7208738643,onsite_nse@sifycorp.com,97193,NULL,Outsourced,NULL,NULL,S1,"FSM_PNQ, FSM_BHO, FSM_PJM, FSM_MUM, FSM_INR, FSM_RAI, FSM_NSK, FSM_NGP, FSM_AGD, Andhra Pradesh, FSM_CHD, FSM_DEL, FSM_CLT, FSM_RJ, FSM_UK, FSM_SUR, FSM_RJT, FSM_AMD, Kerala, FSM_BRD, FSM_PB, FSM_HG",NULL,24,NULL,NULL
+aaquib.khan,Aaquib Khan,Manager,8962469554,aaquib.khan@sifycorp.com,C14921,NULL,Outsourced,NULL,NULL,S1,FSM_BHO,NULL,24,NULL,NULL
+bhuneshwar.prasad,Bhuneshwar Prasad,Manager,7024160060,bhuneshwar.prasad@sifycorp.com,C12231,NULL,Outsourced,NULL,NULL,S1,"FSM_RAI, West",NULL,24,NULL,NULL
+Deepak Padihar,Deepak Padihar,Manager,9981337572,deepak.padihar@sifycorp.com,C18592,NULL,Outsourced,NULL,NULL,S1,FSM_INR,NULL,24,NULL,NULL
+gyaneshwar.jhagekar,Gyaneshwar Jhagekar,Manager,9302128866,gyaneshwar.jhagekar@sifycorp.com,C11941,NULL,Outsourced,NULL,NULL,S1,FSM_INR,NULL,24,NULL,NULL
+Jitendra.Ohja,Jitendra Ojha,Manager,9893262524,jitendra.ohja@sifycorp.com,9259,NULL,Outsourced,NULL,NULL,S1,"FSM_BHO, FSM_INR, FSM_RAI",NULL,24,NULL,NULL
+munish.gupta,Munish Gupta,Manager,9977626072,munish.gupta@sifycorp.com,C12176,NULL,Outsourced,NULL,NULL,S1,"FSM_BHO, FSM_RAI",NULL,24,NULL,NULL
+nitin.bhaiji,Nitin Bhaiji,Manager,9826303454,nitin.bhaiji@sifycorp.com,5756,NULL,Outsourced,NULL,NULL,S1,"FSM_BHO, FSM_INR, FSM_RAI",NULL,24,NULL,NULL
+nizam.ahmed,Nizam Ahmed,Manager,9826349633,nizam.ahmed@sifycorp.com,9442,NULL,Outsourced,NULL,NULL,S1,FSM_BHO,NULL,24,NULL,NULL
+pawar.prateek,Prateek Pawar,Manager,9826644300,pawar.prateek@sifycorp.com,11164,NULL,Outsourced,NULL,NULL,S1,FSM_INR,NULL,24,NULL,NULL
+Jitender.Kumar,RAJESHWARI INFOTEL PRIVATE LIMITED,Manager,9654293469,jitender@ripl.com,55935,NULL,Outsourced,NULL,NULL,S1,"FSM_GGN, FSM_BHU, FSM_RJ, FSM_BLR, FSM_DEL, FSM_RAI, FSM_INR",NULL,24,NULL,NULL
+tanmay.sharma,SEPL consultancy services private limited,Manager,9928066966,tanmay.sharma@sai-educare.com,44176,NULL,Outsourced,NULL,NULL,S1,"FSM_BHO, FSM_INR, FSM_RJ",NULL,24,NULL,NULL
+Santosh Sahare,Santosh Sahare,Manager,9165153789,santosh.sahare@sifycorp.com,C18266,NULL,Outsourced,NULL,NULL,S1,FSM_RAI,NULL,24,NULL,NULL
+shiva.modak,Shiva Modak,Manager,9770331479,shiva.modak@sifycorp.com,C15655,NULL,Outsourced,NULL,NULL,S1,FSM_INR,NULL,24,NULL,NULL
+Somesh.sharma,Somesh Sharma,Manager,9826699975,somesh.sharma@sifycorp.com,8773,NULL,Outsourced,NULL,NULL,S1,FSM_INR,NULL,24,NULL,NULL
+Aman.sakare,Aman Sakare,Manager,7000905437,aman.sakare@sifycorp.com,C18515,NULL,Outsourced,NULL,NULL,S1,FSM_RAI,NULL,24,NULL,NULL
+nikil.gupta,Nikhil Gupta,Manager,8349004934,nikil.gupta@sifycorp.com,C18525,NULL,Outsourced,NULL,NULL,S1,FSM_BHO,NULL,24,NULL,NULL
+susheel.ahirwar,Susheel Kumar Ahirwar,Manager,9981636098,susheel.ahirwar@sifycorp.com,C18275,NULL,Outsourced,NULL,NULL,S1,FSM_BHO,NULL,24,NULL,NULL
+akash.deshmukh,Akash Bhaurao Deshmukh,Manager,7972103678,akash.deshmukh@sifycorp.com,C18250,NULL,Outsourced,NULL,NULL,S1,ROM,NULL,24,NULL,NULL
+AvinashPatil,Avinash Patil,Manager,9322452957,patil.avinash@sifycorp.com,C18584,NULL,Outsourced,NULL,NULL,S1,ROM,NULL,24,NULL,NULL
+Avinash Shamannavar,Avinash Shamannavar,Manager,9637716604,avinash.shamannavar@sifycorp.com,C18399,NULL,Outsourced,NULL,NULL,S1,FSM_PNQ,NULL,24,NULL,NULL
+Mahesh Gangasagar,Mahesh Gangasagar,Manager,9970981866,mahesh.sagar@sifycorp.com,SDS01785,NULL,Outsourced,NULL,NULL,S1,ROM,NULL,24,NULL,NULL
+mangesh.shingankar,Mangesh Pundlik Shingankar,Manager,9370369551,mangesh.shingankar@sifycorp.com,12833,NULL,Outsourced,NULL,NULL,S1,FSM_AGD,NULL,24,NULL,NULL
+Nikhil Jadhav,Nikhil Jadhav,Manager,8999503239,Nikhil.jadhav@sifycorp.com,C18360,NULL,Outsourced,NULL,NULL,S1,FSM_AGD,NULL,24,NULL,NULL
+falkey.pravin,Pravin Falkey,Manager,9657394601,falkey.pravin@sifycorp.com,C16728,NULL,Outsourced,NULL,NULL,S1,FSM_NGP,NULL,24,NULL,NULL
+rahuldeepak.doijkar,Rahul Deepak Doijkar,Manager,8600005701,rahuldeepak.doijkar@sifycorp.com,C10633,NULL,Outsourced,NULL,NULL,S1,"FSM_NSK, FSM_NGP, FSM_AGD, FSM_PNQ",NULL,24,NULL,NULL
+Rahul Mote,Rahul Mote,Manager,8855000718,Rahul.mote@sifycorp.com,C18516,NULL,Outsourced,NULL,NULL,S1,ROM,NULL,24,NULL,NULL
+bhalke.samir,Samir Pratap Bhalke,Manager,9881717002,bhalke.samir@sifycorp.com,15097,NULL,Outsourced,NULL,NULL,S1,FSM_NSK,NULL,24,NULL,NULL
+Sandip dubile,Sandip dubile,Manager,7028139838,sandip.dubile@sifycorp.com,C18517,NULL,Outsourced,NULL,NULL,S1,FSM_AGD,NULL,24,NULL,NULL
+more.satish,Satish More,Manager,9881107645,more.satish@sifycorp.com,8703,NULL,Outsourced,NULL,NULL,S1,"FSM_NSK, FSM_NGP, FSM_AGD, FSM_PNQ",NULL,24,NULL,NULL
+Saurabh Ingle,Saurabh Ingle,Manager,9028357562,saurabh.ingle@sifycorp.com,C18381,NULL,Outsourced,NULL,NULL,S1,FSM_NGP,NULL,24,NULL,NULL
+saurabh.waghmare,Saurabh Waghmare,Manager,7841969090,saurabh.waghmare@sifycorp.com,C18315,NULL,Outsourced,NULL,NULL,S1,FSM_PNQ,NULL,24,NULL,NULL
+shashank.katarpawar,Shashank Katarpawar,Manager,8407983100,shashank.katarpawar@sifycorp.com,C18335,NULL,Outsourced,NULL,NULL,S1,FSM_NGP,NULL,24,NULL,NULL
+thakare.tushar,Thakare Tushar Raman,Manager,9766671777,thakare.tushar@sifycorp.com,C16401,NULL,Outsourced,NULL,NULL,S1,FSM_NSK,NULL,24,NULL,NULL
+vaibhav.patekar,Vaibhav Vaman Patekar,Manager,9545639933,vaibhav.patekar@sifycorp.com,16046,NULL,Outsourced,NULL,NULL,S1,"FSM_NSK, FSM_NGP, FSM_AGD, FSM_PNQ",NULL,24,NULL,NULL
+Vishal Deshmukh,Vishal Deshmukh,Manager,9922204221,Deshmukh.vishal@sifycrop.com,C18377,NULL,Outsourced,NULL,NULL,S1,FSM_PNQ,NULL,24,NULL,NULL
+vivek.ramesh,Vivek Ramesh Kolte,Manager,9545192087,vivek.ramesh@sifycorp.com,C18276,NULL,Outsourced,NULL,NULL,S1,ROM,NULL,24,NULL,NULL
+yogesh.zagade,Yogesh B Zagade,Manager,9552504020,yogesh.zagade@sifycorp.com,11024,NULL,Outsourced,NULL,NULL,S1,"FSM_NSK, FSM_NGP, FSM_AGD, FSM_PNQ",NULL,24,NULL,NULL
+sohan tandulwadkar,sohan tandulwadkar,Manager,9028995103,sohan.tandulwadkar@sifycorp.com,C18396,NULL,Outsourced,NULL,NULL,S1,FSM_PNQ,NULL,24,NULL,NULL
+Mahendra Valhe,Mahendra Valhe,Manager,99600 19643,mahendra.valhe@sifycorp.com,C18603,NULL,Outsourced,NULL,NULL,S1,FSM_NSK,NULL,24,NULL,NULL
+Vijay Nikam,Vijay Nikam,Manager,86984 91986,vijayvishwas.nikam@sifycorp.com,C18679,NULL,Outsourced,NULL,NULL,S1,FSM_PNQ,NULL,24,NULL,NULL
+Mayur Kadam,Mayur Kadam,Manager,78220 81011,kadammayur.dattatray@sifycorp.com,C18676,NULL,Outsourced,NULL,NULL,S1,FSM_PNQ,NULL,24,NULL,NULL
+Krishna Marathe,Krishna Marathe,Manager,9370699823,krishna.marathe@sifycorp.com,11532,NULL,Outsourced,NULL,NULL,S1,"FSM_PJM, FSM_MUM, FSM_HG",NULL,24,NULL,NULL
+kunal.kaptan,Kunal Singh,Manager,7775809036,kunal.kaptan@sifycorp.com,C17955,NULL,Outsourced,NULL,NULL,S1,FSM_PJM,NULL,24,NULL,NULL
+Pritam Pujari,Pritam Pujari,Manager,9527540353,pritam.pujari@sifycorp.com,C18365,NULL,Outsourced,NULL,NULL,S1,FSM_PJM,NULL,24,NULL,NULL
+satyajit.pednekar,Satyajit Gajanan Pednekar,Manager,9673623625,satyajit.pednekar@sifycorp.com,C17903,NULL,Outsourced,NULL,NULL,S1,FSM_PJM,NULL,24,NULL,NULL
+subash.sitaram,Subash Sitaram Volvoikar,Manager,9764264937,subash.sitaram@sifycorp.com,7903,NULL,Outsourced,NULL,NULL,S1,FSM_PJM,NULL,24,NULL,NULL
+beldar.khumansang,Beldar Khumansang Shankarbhai,Manager,6358081405,beldar.khumansang@sifycorp.com,15142,NULL,Outsourced,NULL,NULL,S1,"FSM_BRD, FSM_SUR",NULL,24,NULL,NULL
+chetan.arvindbhai,Chetan Panchal A,Manager,9099938261,chetan.arvindbhai@sifycorp.com,8085,NULL,Outsourced,NULL,NULL,S1,"FSM_SUR, FSM_RJT, FSM_AMD, FSM_BRD",NULL,24,NULL,NULL
+dhokiya.dhaval,Dhokiya Dhaval Jamanbhai,Manager,9727812338,dhokiya.dhaval@sifycorp.com,C18320,NULL,Outsourced,NULL,NULL,S1,FSM_RJT,NULL,24,NULL,NULL
+diptesh.patel,Diptesh C Patel,Manager,9879683059,diptesh.patel@sifycorp.com,12711,NULL,Outsourced,NULL,NULL,S1,"FSM_RJT, FSM_AMD",NULL,24,NULL,NULL
+gautam.hariyani,Gautam M Hariyani,Manager,8085112623,gautam.hariyani@sifycorp.com,7736,NULL,Outsourced,NULL,NULL,S1,"FSM_RJT, FSM_AMD",NULL,24,NULL,NULL
+irfanbanani.faruk,Irfan Banani,Manager,9925889788,irfanbanani.faruk@sifycorp.com,C16729,NULL,Outsourced,NULL,NULL,S1,FSM_RJT,NULL,24,NULL,NULL
+jignesh.prajapati,Jignesh Prajapati,Manager,9898866225,jignesh.prajapati@sifycorp.com,C18349,NULL,Outsourced,NULL,NULL,S1,FSM_BRD,NULL,24,NULL,NULL
+kanaiya.rangoonwala,Kanaiya C Rangoonwala,Manager,9687609366,kanaiya.rangoonwala@sifycorp.com,C15859,NULL,Outsourced,NULL,NULL,S1,"FSM_SUR, FSM_BRD",NULL,24,NULL,NULL
+Lakhan.Singh,Lakhan Singh,Manager,9510333588,lakhan.singh@sifycorp.com,C16727,NULL,Outsourced,NULL,NULL,S1,"FSM_RJT, FSM_AMD",NULL,24,NULL,NULL
+rajesh.trivedi,Rajesh Trivedi,Manager,9898833795,rajesh.trivedi@sifycorp.com,10730,NULL,Outsourced,NULL,NULL,S1,"FSM_AMD, FSM_RJT",NULL,24,NULL,NULL
+rasik.rakholiya,Rasik Rakholiya,Manager,9925611180,rasik.rakholiya@sifycorp.com,7250,NULL,Outsourced,NULL,NULL,S1,"FSM_BRD, FSM_AMD, FSM_RJT, FSM_SUR",NULL,24,NULL,NULL
+rohidas.patil,Rohidas patil,Manager,8460230498,rohidas.patil@sifycorp.com,C18334,NULL,Outsourced,NULL,NULL,S1,FSM_SUR,NULL,24,NULL,NULL
+prajapati.shubhamkumar,Shubham Prajapati,Manager,9898638699,prajapati.shubhamkumar@sifycorp.com,C18314,NULL,Outsourced,NULL,NULL,S1,FSM_BRD,NULL,24,NULL,NULL
+VARDHAN INSYS,VARDHAN INSYS,Manager,8469021174,info@vardhaninsys.com,40562,NULL,Outsourced,NULL,NULL,S1,"FSM_BRD, FSM_SUR",NULL,24,NULL,NULL
+Viraj infotech,Viraj infotech,Manager,8238636836,virajinfotech2015@gmail.com,46486,NULL,Outsourced,NULL,NULL,S1,"FSM_AMD, FSM_RJT",NULL,24,NULL,NULL
+ardip.mangukiya,Ardip Mangukiya,Manager,9687454001,ardip.mangukiya@sifycorp.com,17562,NULL,Outsourced,NULL,NULL,S1,FSM_SUR,NULL,24,NULL,NULL
+nimavathiren.bharatbhai,Hiren Nimavat,Manager,9328079875,nimavathiren.bharatbhai@sifycorp.com,C18658,NULL,Outsourced,NULL,NULL,S1,FSM_RJT,NULL,24,NULL,NULL
+vishal.ptl,Vishal Patel,Manager,9725552933,vishal.ptl@sifycorp.com,C18343,NULL,Outsourced,NULL,NULL,S1,FSM_AMD,NULL,24,NULL,NULL
+abhisheksharma.hariom,Abhishek Sharma,Manager,7405553894,abhisheksharma.hariom@sifycorp.com,C18298,NULL,Outsourced,NULL,NULL,S1,FSM_AMD,NULL,24,NULL,NULL
+katewal.om,Om Katewal,Manager,9724581551,katewal.om@sifycorp.com,C18464,NULL,Outsourced,NULL,NULL,S1,FSM_AMD,NULL,24,NULL,NULL
