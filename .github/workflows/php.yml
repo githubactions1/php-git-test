@@ -7,22 +7,27 @@ on:
 jobs:
   deploy:
     runs-on: self-hosted
-    
+    container:
+      image: centos:7
+      
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
 
+      - name: Install PHP
+        run: |
+         sudo yum install -y php php-cli php-fpm php-mysqlnd php-zip php-devel php-gd php-mcrypt php-mbstring php-curl php-xml php-pear php-bcmath php-json
 
       - name: Install Composer
         run: |
           curl -sS https://getcomposer.org/installer | php
-          mv composer.phar /usr/local/bin/composer
-          chmod +x /usr/local/bin/composer
+          sudo mv composer.phar /usr/local/bin/composer
+          sudo chmod +x /usr/local/bin/composer
 
       - name: Install Composer dependencies
         run: |
           cd /var/www/html
-          composer install --no-dev --optimize-autoloader
+          sudo composer install --no-dev --optimize-autoloader
 
       - name: Start PHP built-in server
         run: php -S sifydev.digitalrupay.com -t /var/www/html &
