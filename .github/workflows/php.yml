@@ -1,0 +1,31 @@
+name: PHP Application Deployment
+
+on:
+  push:
+    branches: [ "test" ]
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Set up PHP
+        uses: docker://php:7.4
+
+      - name: Install Composer dependencies
+        run: |
+          cd /var/www/html
+          composer install --no-dev --optimize-autoloader
+
+      - name: Start PHP built-in server
+        run: php -S sifydev.digitalrupay.com -t /var/www/html &
+        background: true
+
+      - name: Wait for PHP built-in server to start
+        run: sleep 5
+
+      - name: Test PHP application
+        run: curl http://sifydev.digitalrupay.com/Welcome
