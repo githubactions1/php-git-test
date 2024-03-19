@@ -19,9 +19,10 @@ jobs:
 
       - name: Install Composer
         run: |
-          sudo curl -sS https://getcomposer.org/installer | php
-          sudo mv composer.phar /usr/local/bin/composer
-          sudo chmod +x /usr/local/bin/composer
+          sudo curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
+
+      - name: Update PATH environment variable
+        run: echo "::add-path::/usr/local/bin"
 
       - name: Install Composer dependencies
         run: |
