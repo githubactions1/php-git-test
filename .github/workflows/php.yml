@@ -26,6 +26,13 @@ jobs:
           echo 'export PATH="/usr/local/bin:$PATH"' >> $HOME/.bashrc
           source $HOME/.bashrc
 
+      - name: Check if composer.json exists
+        run: |
+          if [ ! -f "/var/www/html/composer.json" ]; then
+            cd /var/www/html
+            composer init --name "your-vendor/your-project" --require-dev ""
+          fi
+
       - name: Install Composer dependencies
         run: |
           cd /var/www/html
