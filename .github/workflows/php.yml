@@ -23,12 +23,13 @@ jobs:
 
       - name: Update PATH environment variable
         run: |
-          echo 'export PATH="/usr/local/bin:$PATH"' >> $GITHUB_ENV
+          echo 'export PATH="/usr/local/bin:$PATH"' >> $HOME/.bashrc
+          source $HOME/.bashrc
 
       - name: Install Composer dependencies
         run: |
           cd /var/www/html
-          composer install --no-dev --optimize-autoloader
+          /usr/local/bin/composer install --no-dev --optimize-autoloader
 
       - name: Start PHP built-in server
         run: php -S sifydev.digitalrupay.com -t /var/www/html &
