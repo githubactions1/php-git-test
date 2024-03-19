@@ -22,7 +22,8 @@ jobs:
           sudo curl -sS https://getcomposer.org/installer | sudo php -- --install-dir=/usr/local/bin --filename=composer
 
       - name: Update PATH environment variable
-        run: echo "::add-path::/usr/local/bin"
+        run: |
+          echo 'export PATH="/usr/local/bin:$PATH"' >> $GITHUB_ENV
 
       - name: Install Composer dependencies
         run: |
