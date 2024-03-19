@@ -28,3 +28,4 @@ jobs:
 
       - name: Test PHP application
         run: curl http://sifydev.digitalrupay.com/Welcome
+        
