@@ -35,4 +35,4 @@ jobs:
         run: sleep 5
 
       - name: Test PHP application
-        run: curl http://3.83.95.13/Welcome
+        run: curl http://3.83.95.13:8008/Welcome
