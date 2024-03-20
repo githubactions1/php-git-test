@@ -29,10 +29,10 @@ jobs:
 
 
       - name: Start PHP built-in server
-        run: php -S 54.90.50.128 -t /var/www/html &
+        run: php -S 3.83.95.13 -t /var/www/html &
 
       - name: Wait for PHP built-in server to start
         run: sleep 5
 
       - name: Test PHP application
-        run: curl http://54.90.50.128/Welcome
+        run: curl http://3.83.95.13/Welcome
